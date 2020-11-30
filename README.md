@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=yourGithubUsername)
+![Github stats](https://github-readme-stats.vercel.app/api?username=bradshawlily)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bradshawlily)](https://github.com/bradshawlily/github-readme-stats)
 ![bradshawlily's github stats](https://github-readme-stats.vercel.app/api?username=bradshawlily&show_icons=true&theme=radical)
