@@ -4,7 +4,7 @@ I'm a 2nd year Computer Science student from Nottingham Trent University and a m
 ### Some stats about my GitHub: 
 ![bradshawlily's github stats](https://github-readme-stats.vercel.app/api?username=bradshawlily&show_icons=true&theme=radical)
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?bradshawlily=anuraghazra&layout=compact/username=bradshawlily&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **bradshawlily/bradshawlily** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
