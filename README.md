@@ -1,5 +1,5 @@
 ### Hello there 👋
-I'm a 2nd year Computer Science student from Nottingham Trent University and a member of [DevSoc](https://github.com/NTUDevSoc).
+I am a final year Computer Science student from Nottingham Trent University and a member of [DevSoc](https://github.com/NTUDevSoc).
 
 ### Some stats about my GitHub: 
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=bradshawlily&show_icons=true&count_private=true&theme=vision-friendly-dark&hide_border=true&custom_title=Github%20Stats&line_height=24)](https://github.com/anuraghazra/github-readme-stats)
