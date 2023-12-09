@@ -1,5 +1,5 @@
 ### Hello there! 👋
-I am  a future Computer Science graduate from Nottingham Trent University and a member of the NTU [Developer's Society](https://github.com/NTUDevSoc).
+I am  a Computer Science graduate from Nottingham Trent University and a member of the NTU [Developer's Society](https://github.com/NTUDevSoc).
 Currently seeking opportunities in data science and software engineering alongside learning .NET development.
 
 ### Some facts about me
